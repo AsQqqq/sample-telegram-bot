@@ -1,0 +1,1 @@
+from setting_bot_.settingBot import bot, dp
