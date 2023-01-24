@@ -1,4 +1,4 @@
-[![Header](https://github.com/AsQqqq/sample-tg-bot/blob/master/assets_readme/cat.gif?raw=true)](https://vk.com/da_ya_dalbaeb)
+[![Header](https://github.com/AsQqqq/sample-telegram-bot/blob/main/assets_readme/cat.gif?raw=true)](https://vk.com/da_ya_dalbaeb)
 
 ### What's it?
 I Telegram bot project, for a good start
