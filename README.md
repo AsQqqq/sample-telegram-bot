@@ -12,7 +12,7 @@ To start, you need a bot TOKEN and an administrator ID.
  - In the folder "setting_bot_" create a file "config.py "
  - create 2 variables in it, TOKEN and ID
  - add the bot token to the "TOKEN" variable
- - and in the "ID" enter the admin's ID, but! Important! in quotes!
+ - and in the "ADMIN_id" enter the admin's ID, but! Important! in quotes!
 
 ### Follow Me
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-4B0082?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/asq_group)
