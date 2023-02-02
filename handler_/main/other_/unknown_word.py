@@ -1,7 +1,6 @@
 from aiogram import types
 from setting_bot_ import bot, dp
 
-@dp.message_handler()
 async def other(message: types.Message):
     try:
         await message.delete()
@@ -11,5 +10,5 @@ async def other(message: types.Message):
     text = "Данная команда не известна, напиши /help"
     await bot.send_message(user_id, text)
 
-def start_file_unknows_word():
-    return "Файл запущен"
+def start_file_unknows_word(dp):
+    dp.register_message_handler(other)

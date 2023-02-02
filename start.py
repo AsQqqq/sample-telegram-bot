@@ -6,7 +6,7 @@ from handler_.main.other_.unknown_word import start_file_unknows_word
 start_file_start()
 
 """---OTHER---"""
-start_file_unknows_word()
+start_file_unknows_word(dp)
 
 async def on_startup(_):
     print("Код запущен!")

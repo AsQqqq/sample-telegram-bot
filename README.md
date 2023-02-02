@@ -10,7 +10,7 @@ I Telegram bot project, for a good start
 ### Launching the bot
 To start, you need a bot TOKEN and an administrator ID.
  - In the folder "setting_bot_" create a file "config.py "
- - create 2 variables in it, TOKEN and ID
+ - create 2 variables in it, TOKEN and ADMIN_id
  - add the bot token to the "TOKEN" variable
  - and in the "ADMIN_id" enter the admin's ID, but! Important! in quotes!
 
