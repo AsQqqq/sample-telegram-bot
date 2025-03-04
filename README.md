@@ -1,6 +1,14 @@
+[![Header](https://github.com/AsQqqq/sample-telegram-bot/blob/main/assets_readme/cat.gif?raw=true)](https://t.me/danilka_pikaso)
+
+
 # 🚀 Шаблон бота на Aiogram 3
 
 Добро пожаловать в репозиторий шаблона бота на **Aiogram 3**! 📌 Этот проект предназначен для быстрого старта при разработке Telegram-ботов с использованием **асинхронного фреймворка Aiogram**.
+
+## Языки и инструменты
+![Python](https://img.shields.io/badge/-Python-4B0082?style=for-the-badge&logo=python&logoColor=FFD700)
+![Aiogram](https://img.shields.io/badge/-aiogram-4B0082?style=for-the-badge&logo=aiogram&logoColor=7CFC00)
+
 
 ## 🌳 Структура проекта
 
@@ -126,3 +134,5 @@ python app.py
 
 💡 Надеюсь, этот шаблон окажется **полезным** и сэкономит ваше время при создании нового бота! 🚀
 
+### Связь со мной
+[![Telegram](https://img.shields.io/badge/-Telegram-4B0082?style=for-the-badge&logo=telegram)](https://t.me/danilka_pikaso)
