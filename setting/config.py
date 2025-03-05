@@ -2,7 +2,6 @@ import os
 from dotenv import load_dotenv
 
 
-
 def get_key(key: str) -> str:
     """
     Передача данных из конфига
