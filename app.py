@@ -4,6 +4,8 @@ from setting.config import get_key
 from datetime import datetime
 from handler import sr_start
 import asyncio
+import database
+
 
 async def main():
     clear()
